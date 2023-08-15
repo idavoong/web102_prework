@@ -23,8 +23,7 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='https://imgur.com/gallery/aLEE0Zh' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![](https://imgur.com/gallery/aLEE0Zh)
+<img src='https://i.imgur.com/aAYvfcZ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Nvidia ShadowPlay and uploaded on Imgur.
