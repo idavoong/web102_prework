@@ -25,6 +25,10 @@ Here's a walkthrough of implemented features:
 
 <img src='https://i.imgur.com/aAYvfcZ.mp4' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+
+https://github.com/idavoong/web102_prework/assets/60492208/5c9e5886-32b4-40aa-b430-899d367fa86c
+
+
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with Nvidia ShadowPlay and uploaded on Imgur.
 <!-- Recommended tools:
